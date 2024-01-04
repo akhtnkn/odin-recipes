@@ -10,3 +10,7 @@ Project is created with:
 
 ## Sources
 This project is part of a web development curriculum provided by [The odin Project] (https://www.theodinproject.com/).
+Descriptions, Ingredients, steps, and image was sourced from [Allrecipes] (https://www.allrecipes.com/)
+-[Chef John's Shakshuka] (https://www.allrecipes.com/recipe/245362/chef-johns-shakshuka/)
+-[Banana Banana Bread] (https://www.allrecipes.com/recipe/20144/banana-banana-bread/)
+-[Old-Fashioned Potato Salad] (https://www.allrecipes.com/recipe/16729/old-fashioned-potato-salad/)
